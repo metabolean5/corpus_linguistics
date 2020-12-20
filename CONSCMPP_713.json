@@ -1,0 +1,373 @@
+{
+    "0": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "yes",
+        "loc": "spk1",
+        "position_syntaxique": "lex"
+    },
+    "3": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk1",
+        "position_syntaxique": "sd"
+    },
+    "7": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk2",
+        "position_syntaxique": "lex"
+    },
+    "8": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk1",
+        "position_syntaxique": "sd"
+    },
+    "9": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "",
+        "loc": "spk1",
+        "position_syntaxique": "sd"
+    },
+    "10": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "y",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk1",
+        "position_syntaxique": "sn"
+    },
+    "12": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk1",
+        "position_syntaxique": "sd"
+    },
+    "22": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "y",
+        "loc": "spk1",
+        "position_syntaxique": "sn"
+    },
+    "23": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "y",
+        "loc": "spk1",
+        "position_syntaxique": "sn"
+    },
+    "27": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk1",
+        "position_syntaxique": "sd"
+    },
+    "28": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk1",
+        "position_syntaxique": "sd"
+    },
+    "29": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "nn",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk1",
+        "position_syntaxique": "sn"
+    },
+    "33": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "y",
+        "loc": "spk1",
+        "position_syntaxique": "sd"
+    },
+    "38": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk1",
+        "position_syntaxique": "sd"
+    },
+    "41": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk1",
+        "position_syntaxique": "sprep"
+    },
+    "44": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk1",
+        "position_syntaxique": "sd"
+    },
+    "45": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "y",
+        "loc": "spk1",
+        "position_syntaxique": "lex"
+    },
+    "47": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk1",
+        "position_syntaxique": "sd"
+    },
+    "49": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk2",
+        "position_syntaxique": "sv"
+    },
+    "51": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk2",
+        "position_syntaxique": "sd"
+    },
+    "55": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "y",
+        "loc": "spk2",
+        "position_syntaxique": "sn"
+    },
+    "57": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk1",
+        "position_syntaxique": "sd"
+    },
+    "59": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk1",
+        "position_syntaxique": "sd"
+    },
+    "61": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "y",
+        "loc": "spk1",
+        "position_syntaxique": "sn"
+    },
+    "66": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "y",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk1",
+        "position_syntaxique": "sn"
+    },
+    "67": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk1",
+        "position_syntaxique": "sd"
+    },
+    "80": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk1",
+        "position_syntaxique": "sd"
+    },
+    "82": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "y",
+        "loc": "spk1",
+        "position_syntaxique": "sn"
+    },
+    "90": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk2",
+        "position_syntaxique": "sn"
+    },
+    "91": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk1",
+        "position_syntaxique": "sd"
+    },
+    "94": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk1",
+        "position_syntaxique": "sd"
+    },
+    "95": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "y",
+        "loc": "spk1",
+        "position_syntaxique": "lex"
+    },
+    "97": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "y",
+        "loc": "spk2",
+        "position_syntaxique": "sn"
+    },
+    "111": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "y",
+        "loc": "spk2",
+        "position_syntaxique": "sprep"
+    },
+    "122": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk1",
+        "position_syntaxique": "sn"
+    },
+    "123": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk1",
+        "position_syntaxique": "sd"
+    },
+    "125": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk2",
+        "position_syntaxique": "sd"
+    },
+    "126": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk1",
+        "position_syntaxique": "sn"
+    },
+    "127": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "y",
+        "loc": "spk2",
+        "position_syntaxique": "sn"
+    },
+    "128": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "y",
+        "loc": "spk1",
+        "position_syntaxique": "sn"
+    },
+    "137": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk1",
+        "position_syntaxique": "sd"
+    },
+    "138": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "y",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk1 spk2",
+        "position_syntaxique": "sn"
+    },
+    "143": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "y",
+        "loc": "spk2",
+        "position_syntaxique": "sd"
+    },
+    "151": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "y",
+        "loc": "spk1",
+        "position_syntaxique": "sn"
+    },
+    "152": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk1",
+        "position_syntaxique": "sn"
+    },
+    "153": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk2",
+        "position_syntaxique": "lex"
+    },
+    "156": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk2",
+        "position_syntaxique": "sd"
+    },
+    "158": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk2",
+        "position_syntaxique": "sn"
+    },
+    "159": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk1",
+        "position_syntaxique": "sd"
+    },
+    "165": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk2",
+        "position_syntaxique": "sv"
+    },
+    "166": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk1",
+        "position_syntaxique": "lex"
+    },
+    "169": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "n",
+        "loc": "spk1",
+        "position_syntaxique": "sprep"
+    },
+    "170": {
+        "contexte": "entretient",
+        "coupl\u00e9_SD": "n",
+        "coupl\u00e9_dys": "y",
+        "loc": "spk1",
+        "position_syntaxique": "sprep"
+    }
+}
